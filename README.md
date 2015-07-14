@@ -1,2 +1,2 @@
-# labcontrol
-LabControl Software lets you control and manage your laboratory
+# Lab Control
+Lab Control Software lets you control and manage your laboratory
